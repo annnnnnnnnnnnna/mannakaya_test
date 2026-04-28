@@ -1253,11 +1253,11 @@ footer a:hover {
 }
 
 .slider-pro.center .sp-previous-arrow {
-  background-image: url(/wp-content/uploads/arrow_left_wh.png);
+  background-image: url(/mannakaya_test/wp-content/uploads/arrow_left_wh.png);
 }
 
 .slider-pro.center .sp-next-arrow {
-  background-image: url(/wp-content/uploads/arrow_right_wh.png);
+  background-image: url(/mannakaya_test/wp-content/uploads/arrow_right_wh.png);
 }
 
 .slider-pro.center .sp-next-arrow:after,
@@ -1349,7 +1349,7 @@ footer a:hover {
 
 .slider-pro.wide .hps-slider-mask.stripe {
   background-color: rgba(255, 255, 255, 0.2);
-  background-image: url(/wp-content/uploads/mask_stripe.png);
+  background-image: url(/mannakaya_test/wp-content/uploads/mask_stripe.png);
 }
 
 .slider-pro.wide .hps-slider-copy {
@@ -1419,7 +1419,7 @@ footer a:hover {
     display: inline-block;
     width: 100px;
     padding-bottom: 45px;
-    background: url(/wp-content/uploads/arrow_down_white.png) center bottom no-repeat;
+    background: url(/mannakaya_test/wp-content/uploads/arrow_down_white.png) center bottom no-repeat;
     text-align: center;
     color: #fff;
     font-size: 12px;
@@ -1427,7 +1427,7 @@ footer a:hover {
     text-decoration: none;
   }
   .slider-pro.wide .hps-slider-scroll.text-black a {
-    background: url(/wp-content/uploads/arrow_down_black.png) center bottom no-repeat;
+    background: url(/mannakaya_test/wp-content/uploads/arrow_down_black.png) center bottom no-repeat;
     color: #000;
   }
 }
@@ -1445,7 +1445,7 @@ footer a:hover {
   }
   .bf-af .before {
     padding-bottom: 16%;
-    background: url(/wp-content/uploads/arrow_down.svg) center bottom no-repeat;
+    background: url(/mannakaya_test/wp-content/uploads/arrow_down.svg) center bottom no-repeat;
     background-size: 20%;
     background-size: 45px auto;
   }
@@ -1474,7 +1474,7 @@ footer a:hover {
     position: absolute;
     top: 0;
     height: 100%;
-    background: url(/wp-content/uploads/arrow_right.svg) center center no-repeat;
+    background: url(/mannakaya_test/wp-content/uploads/arrow_right.svg) center center no-repeat;
     background-size: 100%;
   }
   .bf-af.col2 .before {
@@ -1639,7 +1639,7 @@ footer a:hover {
 .button span, .inquiry .wpcf7-submit span {
   line-height: 1;
   padding-left: 20px;
-  background: url(/wp-content/uploads/btn_icon.png) left center no-repeat;
+  background: url(/mannakaya_test/wp-content/uploads/btn_icon.png) left center no-repeat;
   background-size: auto 14px;
 }
 
@@ -2335,7 +2335,7 @@ footer a:hover {
 
 .parallax_1 {
   height: 336px;
-  background-image: url(/wp-content/uploads/parallax_bg.jpg);
+  background-image: url(/mannakaya_test/wp-content/uploads/parallax_bg.jpg);
 }
 
 @media (min-width: 768px) {
@@ -2545,23 +2545,23 @@ body.scroll .googlemap {
 }
 
 .sns_icons a.icon_facebook {
-  background-image: url(/wp-content/uploads/icon_facebook.png);
+  background-image: url(/mannakaya_test/wp-content/uploads/icon_facebook.png);
 }
 
 .sns_icons a.icon_twitter {
-  background-image: url(/wp-content/uploads/icon_twitter.png);
+  background-image: url(/mannakaya_test/wp-content/uploads/icon_twitter.png);
 }
 
 .sns_icons a.icon_line {
-  background-image: url(/wp-content/uploads/icon_line.png);
+  background-image: url(/mannakaya_test/wp-content/uploads/icon_line.png);
 }
 
 .sns_icons a.icon_google {
-  background-image: url(/wp-content/uploads/icon_google.png);
+  background-image: url(/mannakaya_test/wp-content/uploads/icon_google.png);
 }
 
 .sns_icons a.icon_instagram {
-  background-image: url(/wp-content/uploads/icon_instagram.png);
+  background-image: url(/mannakaya_test/wp-content/uploads/icon_instagram.png);
 }
 
 footer .sns_icons {
@@ -2672,7 +2672,7 @@ footer .sns_icons {
   top: 100%;
   width: 100%;
   height: 0;
-  background: url("/wp-content/uploads/arrow_down.svg") center center no-repeat;
+  background: url("/mannakaya_test/wp-content/uploads/arrow_down.svg") center center no-repeat;
   background-size: 45px auto;
 }
 
@@ -2756,7 +2756,7 @@ footer .sns_icons {
     position: absolute;
     right: -30px;
     top: 0;
-    background: url("/wp-content/uploads/arrow_right.svg") center center no-repeat;
+    background: url("/mannakaya_test/wp-content/uploads/arrow_right.svg") center center no-repeat;
     background-size: contain;
   }
   .step-h .span_3 {
@@ -3116,7 +3116,7 @@ table th {
   margin: 0 auto;
   width: 120px !important;
   height: 29px !important;
-  background: url("/wp-content/uploads/_th17_module_h2.png") center center no-repeat;
+  background: url("/mannakaya_test/wp-content/uploads/_th17_module_h2.png") center center no-repeat;
 }
 
 body.two_column ._th17_module ._th17_module_wrap h2:before {
@@ -3318,7 +3318,7 @@ body.two_column ._th17_module img {
 }
 
 h1:not(.title) {
-  background: url("/wp-content/uploads/h1_bg.jpg") no-repeat center center/cover;
+  background: url("/mannakaya_test/wp-content/uploads/h1_bg.jpg") no-repeat center center/cover;
   text-align: center;
   position: relative;
   font-size: 30px;
@@ -3680,7 +3680,7 @@ h4:before {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   padding-bottom: 45px;
-  background: url(/wp-content/uploads/icon_scroll.png) center bottom no-repeat;
+  background: url(/mannakaya_test/wp-content/uploads/icon_scroll.png) center bottom no-repeat;
   z-index: 55;
   color: #fff;
   text-decoration: none;
@@ -3763,7 +3763,7 @@ header .global_nav > ul > li.gnav_search a {
   color: transparent !important;
   display: inline-block;
   vertical-align: middle;
-  background: url("/wp-content/uploads/search.png") no-repeat center center;
+  background: url("/mannakaya_test/wp-content/uploads/search.png") no-repeat center center;
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
@@ -5386,7 +5386,7 @@ ul.box_table li + li {
 }
 
 body {
-  background: url("/wp-content/uploads/bg_img001.jpg") repeat center center;
+  background: url("/mannakaya_test/wp-content/uploads/bg_img001.jpg") repeat center center;
 }
 
 body header {
@@ -5686,7 +5686,7 @@ footer .footer_copyright_wrap {
 }
 
 .sec_01 {
-  background-image: url("/wp-content/uploads/bg_img002.jpg");
+  background-image: url("/mannakaya_test/wp-content/uploads/bg_img002.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -5698,7 +5698,7 @@ footer .footer_copyright_wrap {
 
 @media (max-width: 767px) {
   .sec_01 {
-    background-image: url("/wp-content/uploads/sp_bg_img002.jpg");
+    background-image: url("/mannakaya_test/wp-content/uploads/sp_bg_img002.jpg");
     background-size: cover;
   }
 }
@@ -5736,44 +5736,44 @@ footer .footer_copyright_wrap {
 }
 
 .sec_02 {
-  background: url("/wp-content/uploads/bg_img003.jpg") no-repeat center center/cover;
+  background: url("/mannakaya_test/wp-content/uploads/bg_img003.jpg") no-repeat center center/cover;
 }
 
 @media (max-width: 767px) {
   .sec_02 {
-    background: url("/wp-content/uploads/sp_bg_img003.jpg") no-repeat center center/cover;
+    background: url("/mannakaya_test/wp-content/uploads/sp_bg_img003.jpg") no-repeat center center/cover;
   }
 }
 
 .sec_03 {
-  background: url("/wp-content/uploads/bg_img004.jpg") no-repeat center center/cover;
+  background: url("/mannakaya_test/wp-content/uploads/bg_img004.jpg") no-repeat center center/cover;
 }
 
 @media (max-width: 767px) {
   .sec_03 {
-    background: url("/wp-content/uploads/sp_bg_img004.jpg") no-repeat center center/cover;
+    background: url("/mannakaya_test/wp-content/uploads/sp_bg_img004.jpg") no-repeat center center/cover;
   }
 }
 
 .sec_04 {
-  background: url("/wp-content/uploads/bg_img005.jpg") no-repeat center center/cover;
+  background: url("/mannakaya_test/wp-content/uploads/bg_img005.jpg") no-repeat center center/cover;
 }
 
 @media (max-width: 767px) {
   .sec_04 {
-    background: url("/wp-content/uploads/sp_bg_img005.jpg") no-repeat center center/cover;
+    background: url("/mannakaya_test/wp-content/uploads/sp_bg_img005.jpg") no-repeat center center/cover;
   }
 }
 
 .sec_05 {
-  background: url("/wp-content/uploads/bg_img002.jpg") no-repeat center center/cover;
+  background: url("/mannakaya_test/wp-content/uploads/bg_img002.jpg") no-repeat center center/cover;
   padding: 4% 0;
   margin-bottom: 0;
 }
 
 @media (max-width: 767px) {
   .sec_05 {
-    background: url("/wp-content/uploads/sp_bg_img003.jpg") no-repeat center center/cover;
+    background: url("/mannakaya_test/wp-content/uploads/sp_bg_img003.jpg") no-repeat center center/cover;
   }
 }
 
@@ -5850,7 +5850,7 @@ footer .footer_copyright_wrap {
 }
 
 .sec_04__ {
-  background-image: url("/wp-content/uploads/bg_img004.jpg");
+  background-image: url("/mannakaya_test/wp-content/uploads/bg_img004.jpg");
   background-repeat: repeat;
   position: relative;
   margin-bottom: 0;
